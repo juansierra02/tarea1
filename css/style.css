@@ -23,7 +23,7 @@ Section {
 
 .imagen {
     
-    background-image: url('/img/bannerprincipal2.jpg');
+    background-image: url('./img/bannerprincipal2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
